@@ -1,49 +1,49 @@
-# Smard City UH
+# Smart City UH
 
 # Okruhy
 1. Doprava
-	1. Parkování
-	napojit parkovací brány na nìjaké øešení, které by bylo dostupné online a øidiè by se mohl pøi pøíjezdu do UH zjistit které parkovištì je jak obsazené.
-Aplikace by zároveò mohla umìt navigovat na dané parkovištì a byla by schopna podle historickıch dat urèovat predikce jak bude dané parkovištì obsazené v danı den a danı èas.
-	2. Parkování na prùjezdnıch parkovištích - Masarykovo námìstí - Umístit kamery snímající SPZ a evidující zaparkování na námìstí. Dále obdobná funkcionalita jako u bodu 1. Auto které námìstím projede bìhem napø 1 minuty na námìstí neparkuje a jen projelo.
+	1. ParkovÃ¡nÃ­
+	napojit parkovacÃ­ brÃ¡ny na nÄ›jakÃ© Å™eÅ¡enÃ­, kterÃ© by bylo dostupnÃ© online a Å™idiÄ by se mohl pÅ™i pÅ™Ã­jezdu do UH zjistit kterÃ© parkoviÅ¡tÄ› je jak obsazenÃ©.
+Aplikace by zÃ¡roveÅˆ mohla umÄ›t navigovat na danÃ© parkoviÅ¡tÄ› a byla by schopna podle historickÃ½ch dat urÄovat predikce jak bude danÃ© parkoviÅ¡tÄ› obsazenÃ© v danÃ½ den a danÃ½ Äas.
+	2. ParkovÃ¡nÃ­ na prÅ¯jezdnÃ½ch parkoviÅ¡tÃ­ch - Masarykovo nÃ¡mÄ›stÃ­ - UmÃ­stit kamery snÃ­majÃ­cÃ­ SPZ a evidujÃ­cÃ­ zaparkovÃ¡nÃ­ na nÃ¡mÄ›stÃ­. DÃ¡le obdobnÃ¡ funkcionalita jako u bodu 1. Auto kterÃ© nÃ¡mÄ›stÃ­m projede bÄ›hem napÅ™ 1 minuty na nÃ¡mÄ›stÃ­ neparkuje a jen projelo.
 	3. MHD 
-		1. Instalace GPS pøedávajících informaci o poloze vozu do aplikace která by tuto informaci zobrazovala a udávala by pøiblinı odhad, kdy bude danı vùz napøíslušné zastávce
-		2. monost placení jízdného moderními kanály - SMS, platební karta s chipem
-	4. informace o prùjezdech dùleitımi køiovatkami - ze senzorù které jsou na semaforech sbírat data a predikovat z nich které køiovatky se ucpávají podle frekvence prùjezdnosti. 
+		1. Instalace GPS pÅ™edÃ¡vajÃ­cÃ­ch informaci o poloze vozu do aplikace kterÃ¡ by tuto informaci zobrazovala a udÃ¡vala by pÅ™ibliÅ¾nÃ½ odhad, kdy bude danÃ½ vÅ¯z napÅ™Ã­sluÅ¡nÃ© zastÃ¡vce
+		2. moÅ¾nost placenÃ­ jÃ­zdnÃ©ho modernÃ­mi kanÃ¡ly - SMS, platebnÃ­ karta s chipem
+	4. informace o prÅ¯jezdech dÅ¯leÅ¾itÃ½mi kÅ™iÅ¾ovatkami - ze senzorÅ¯ kterÃ© jsou na semaforech sbÃ­rat data a predikovat z nich kterÃ© kÅ™iÅ¾ovatky se ucpÃ¡vajÃ­ podle frekvence prÅ¯jezdnosti. 
 2. Kontejnery - viz prezentace O2ITS
-3. Osvìtlení - instalace inteligentních lamp do parku a do odlehlejších èástí mìsta kde namusí svítit, kdy tam nikdo není.
-4. Wifi ve mìstì
-	v místech kde se vyskytuje vìtší koncentrace lidí, kteøí tam tráví volnı èas (park, stadiony, aquapark, centrum mìsta) - omezená rychlkost a omezené mnoství pøenesenıch dat
-5. Vıznamné památky mìsta 
-	v napojení na pøipravovanou virtuální encyklopedii mìsta umístit na vıznemné atraktivity informaèní tabulky s QR kódy pro vstup do encyklopedie.  
+3. OsvÄ›tlenÃ­ - instalace inteligentnÃ­ch lamp do parku a do odlehlejÅ¡Ã­ch ÄÃ¡stÃ­ mÄ›sta kde namusÃ­ svÃ­tit, kdyÅ¾ tam nikdo nenÃ­.
+4. Wifi ve mÄ›stÄ›
+	v mÃ­stech kde se vyskytuje vÄ›tÅ¡Ã­ koncentrace lidÃ­, kteÅ™Ã­ tam trÃ¡vÃ­ volnÃ½ Äas (park, stadiony, aquapark, centrum mÄ›sta) - omezenÃ¡ rychlkost a omezenÃ© mnoÅ¾stvÃ­ pÅ™enesenÃ½ch dat
+5. VÃ½znamnÃ© pamÃ¡tky mÄ›sta 
+	v napojenÃ­ na pÅ™ipravovanou virtuÃ¡lnÃ­ encyklopedii mÄ›sta umÃ­stit na vÃ½znemnÃ© atraktivity informaÄnÃ­ tabulky s QR kÃ³dy pro vstup do encyklopedie.  
 
 
-# Praktické návrhy
+# PraktickÃ© nÃ¡vrhy
 
-Komise pro informaèní a komunikaèní technologie doporuèuje Radì mìsta ustanovit pracovní skupinu pro problematiku smart city.
-Komise dále doporuèuje, aby se komise zabıvala následujícími okruhy témat:
-Mobilní aplikace (pracovní název SmartUH), která v sobì bude zahrnovat následující oblasti
+Komise pro informaÄnÃ­ a komunikaÄnÃ­ technologie doporuÄuje RadÄ› mÄ›sta ustanovit pracovnÃ­ skupinu pro problematiku smart city.
+Komise dÃ¡le doporuÄuje, aby se komise zabÃ½vala nÃ¡sledujÃ­cÃ­mi okruhy tÃ©mat:
+MobilnÃ­ aplikace (pracovnÃ­ nÃ¡zev SmartUH), kterÃ¡ v sobÄ› bude zahrnovat nÃ¡sledujÃ­cÃ­ oblasti
 1. Doprava
-	a) Parkování 	
-	- napojit parkovací brány na mobilní aplikaci která bude schopna v aktuálním èase zobrazit obsazenost jednotlivıch monitorovanıch parkovacích ploch
-	- napojit platební automaty na nezávorovanıch parkovištích na mobilní aplikaci, která by zobrazovala pøiblinı poèet volnıch parkovacích míst
-	- Parkování na prùjezdnıch parkovištích - Masarykovo námìstí, Zelnı trh - Umístit kamery snímající SPZ a evidující zaparkování na námìstí (tolerance mezi pøíjezdem a odjezdem by se nebrala jako parkování)
-	- Aplikace by zároveò mohla umìt navigovat na dané parkovištì a byla by schopna podle historickıch dat urèovat predikce, jak bude dané parkovištì obsazené v danı den a danı èas.
-	b) MHD
-	- Instalace GPS pøedávajících informaci o poloze vozu do aplikace která by tuto informaci zobrazovala a udávala by pøiblinı odhad, kdy bude danı vùz napøíslušné zastávce - opìt napojeno na mobilní aplikaci
-	- monost placení jízdného moderními kanály - SMS, platební karta s èipem
-	c) informace o prùjezdech dùleitımi køiovatkami 
-	- ze senzorù které jsou na semaforech sbírat data a predikovat z nich které køiovatky se ucpávají podle frekvence prùjezdnosti. 
+a) ParkovÃ¡nÃ­ 	
+	- napojit parkovacÃ­ brÃ¡ny na mobilnÃ­ aplikaci kterÃ¡ bude schopna v aktuÃ¡lnÃ­m Äase zobrazit obsazenost jednotlivÃ½ch monitorovanÃ½ch parkovacÃ­ch ploch
+	- napojit platebnÃ­ automaty na nezÃ¡vorovanÃ½ch parkoviÅ¡tÃ­ch na mobilnÃ­ aplikaci, kterÃ¡ by zobrazovala pÅ™ibliÅ¾nÃ½ poÄet volnÃ½ch parkovacÃ­ch mÃ­st
+	- ParkovÃ¡nÃ­ na prÅ¯jezdnÃ½ch parkoviÅ¡tÃ­ch - Masarykovo nÃ¡mÄ›stÃ­, ZelnÃ½ trh - UmÃ­stit kamery snÃ­majÃ­cÃ­ SPZ a evidujÃ­cÃ­ zaparkovÃ¡nÃ­ na nÃ¡mÄ›stÃ­ (tolerance mezi pÅ™Ã­jezdem a odjezdem by se nebrala jako parkovÃ¡nÃ­)
+	- Aplikace by zÃ¡roveÅˆ mohla umÄ›t navigovat na danÃ© parkoviÅ¡tÄ› a byla by schopna podle historickÃ½ch dat urÄovat predikce, jak bude danÃ© parkoviÅ¡tÄ› obsazenÃ© v danÃ½ den a danÃ½ Äas.
+b) MHD
+	- Instalace GPS pÅ™edÃ¡vajÃ­cÃ­ch informaci o poloze vozu do aplikace kterÃ¡ by tuto informaci zobrazovala a udÃ¡vala by pÅ™ibliÅ¾nÃ½ odhad, kdy bude danÃ½ vÅ¯z napÅ™Ã­sluÅ¡nÃ© zastÃ¡vce - opÄ›t napojeno na mobilnÃ­ aplikaci
+	- moÅ¾nost placenÃ­ jÃ­zdnÃ©ho modernÃ­mi kanÃ¡ly - SMS, platebnÃ­ karta s Äipem
+c) informace o prÅ¯jezdech dÅ¯leÅ¾itÃ½mi kÅ™iÅ¾ovatkami 
+	- ze senzorÅ¯ kterÃ© jsou na semaforech sbÃ­rat data a predikovat z nich kterÃ© kÅ™iÅ¾ovatky se ucpÃ¡vajÃ­ podle frekvence prÅ¯jezdnosti. 
 2. Odpady 
-	- Instalace senzorù do kontejnerù na odpady monitorující zaplnìnost konejneru s návazností na modifikace svozovıch tras a svozovıch plánù svozovou firmou. Alternativou k senzorùm je ruèní zadávání povìøenou osobou, napø, mìstští policisté (projekty se realizují ji v Kolínì a rozbíhá se v Novém Mìstì nad Metují)
-3. Wifi ve mìstì
-	- v místech kde se vyskytuje vìtší koncentrace lidí, kteøí tam tráví volnı èas (park, stadiony, aquapark, centrum mìsta) - omezená rychlkost a omezené mnoství pøenesenıch dat
-4. Vıznamné památky mìsta 
-	- v napojení na pøipravovanou virtuální encyklopedii mìsta umístit na vıznemné atraktivity informaèní tabulky s QR kódy pro vstup do encyklopedie.  
-5. Portál obèana
-	- do portálu napojit všechny agendy které komunikují pøímo s obèanem, monost rezervace na pøepáku, evidence pohledávek obèana vùèi mìstu a monost placení pøímo pøes portál kartou, paypal nebo SMSkou
-	- napojení systémù rezervace v knihovnì, placení lístkù v pøíspìvkovıch organizacích (školy, školky, knihovna, kino, divadlo, klub kultury...)
-6. Inteligentní informaèní systém
-	- novì poptávanı informaèní systém mìsta by mìl obsahovat prvky inteligentní navidage po mìstì. viz bod 4.
+	- Instalace senzorÅ¯ do kontejnerÅ¯ na odpady monitorujÃ­cÃ­ zaplnÄ›nost konejneru s nÃ¡vaznostÃ­ na modifikace svozovÃ½ch tras a svozovÃ½ch plÃ¡nÅ¯ svozovou firmou. Alternativou k senzorÅ¯m je ruÄnÃ­ zadÃ¡vÃ¡nÃ­ povÄ›Å™enou osobou, napÅ™, mÄ›stÅ¡tÃ­ policistÃ© (projekty se realizujÃ­ jiÅ¾ v KolÃ­nÄ› a rozbÃ­hÃ¡ se v NovÃ©m MÄ›stÄ› nad MetujÃ­)
+3. Wifi ve mÄ›stÄ›
+	- v mÃ­stech kde se vyskytuje vÄ›tÅ¡Ã­ koncentrace lidÃ­, kteÅ™Ã­ tam trÃ¡vÃ­ volnÃ½ Äas (park, stadiony, aquapark, centrum mÄ›sta) - omezenÃ¡ rychlkost a omezenÃ© mnoÅ¾stvÃ­ pÅ™enesenÃ½ch dat
+4. VÃ½znamnÃ© pamÃ¡tky mÄ›sta 
+	- v napojenÃ­ na pÅ™ipravovanou virtuÃ¡lnÃ­ encyklopedii mÄ›sta umÃ­stit na vÃ½znemnÃ© atraktivity informaÄnÃ­ tabulky s QR kÃ³dy pro vstup do encyklopedie.  
+5. PortÃ¡l obÄana
+	- do portÃ¡lu napojit vÅ¡echny agendy kterÃ© komunikujÃ­ pÅ™Ã­mo s obÄanem, moÅ¾nost rezervace na pÅ™epÃ¡Å¾ku, evidence pohledÃ¡vek obÄana vÅ¯Äi mÄ›stu a moÅ¾nost placenÃ­ pÅ™Ã­mo pÅ™es portÃ¡l kartou, paypal nebo SMSkou
+	- napojenÃ­ systÃ©mÅ¯ rezervace v knihovnÄ›, placenÃ­ lÃ­stkÅ¯ v pÅ™Ã­spÄ›vkovÃ½ch organizacÃ­ch (Å¡koly, Å¡kolky, knihovna, kino, divadlo, klub kultury...)
+6. InteligentnÃ­ informaÄnÃ­ systÃ©m
+	- novÄ› poptÃ¡vanÃ½ informaÄnÃ­ systÃ©m mÄ›sta by mÄ›l obsahovat prvky inteligentnÃ­ navidage po mÄ›stÄ›. viz bod 4.
 
 	
