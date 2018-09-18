@@ -24,15 +24,15 @@ Komise pro informační a komunikační technologie doporučuje Radě města ust
 Komise dále doporučuje, aby se komise zabývala následujícími okruhy témat:
 Mobilní aplikace (pracovní název SmartUH), která v sobě bude zahrnovat následující oblasti
 1. Doprava
-a) Parkování 	
+- Parkování 	
 	- napojit parkovací brány na mobilní aplikaci která bude schopna v aktuálním čase zobrazit obsazenost jednotlivých monitorovaných parkovacích ploch
 	- napojit platební automaty na nezávorovaných parkovištích na mobilní aplikaci, která by zobrazovala přibližný počet volných parkovacích míst
 	- Parkování na průjezdných parkovištích - Masarykovo náměstí, Zelný trh - Umístit kamery snímající SPZ a evidující zaparkování na náměstí (tolerance mezi příjezdem a odjezdem by se nebrala jako parkování)
 	- Aplikace by zároveň mohla umět navigovat na dané parkoviště a byla by schopna podle historických dat určovat predikce, jak bude dané parkoviště obsazené v daný den a daný čas.
-b) MHD
+- MHD
 	- Instalace GPS předávajících informaci o poloze vozu do aplikace která by tuto informaci zobrazovala a udávala by přibližný odhad, kdy bude daný vůz napříslušné zastávce - opět napojeno na mobilní aplikaci
 	- možnost placení jízdného moderními kanály - SMS, platební karta s čipem
-c) informace o průjezdech důležitými křižovatkami 
+- informace o průjezdech důležitými křižovatkami 
 	- ze senzorů které jsou na semaforech sbírat data a predikovat z nich které křižovatky se ucpávají podle frekvence průjezdnosti. 
 2. Odpady 
 	- Instalace senzorů do kontejnerů na odpady monitorující zaplněnost konejneru s návazností na modifikace svozových tras a svozových plánů svozovou firmou. Alternativou k senzorům je ruční zadávání pověřenou osobou, např, městští policisté (projekty se realizují již v Kolíně a rozbíhá se v Novém Městě nad Metují)
